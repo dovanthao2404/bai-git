@@ -4,5 +4,9 @@ cd: di chuyển các thư mục
 #git
 git status: xem trạng thái của các file.
 test
+git checkout -b name: tạo branch mới
+git checkout name: chuyển branch
+======
 git checkout -b name: tạo breanch mới
 git checkout name: chuyển breanch
+
