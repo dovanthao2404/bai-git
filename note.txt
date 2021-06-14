@@ -6,5 +6,3 @@ git status: xem trạng thái của các file.
 test
 git checkout -b name: tạo branch mới
 git checkout name: chuyển branch
-======
-
