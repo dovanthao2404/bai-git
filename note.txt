@@ -3,3 +3,4 @@ cd: di chuyển các thư mục
 
 #git
 git status: xem trạng thái của các file.
+test
